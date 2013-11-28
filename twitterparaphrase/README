@@ -1,0 +1,14 @@
+
+This github project includes the Twitter paraphrase test data, phrase table and Moses configure file used in the following paper:
+
+@inproceedings{xu2013gathering,
+  title={Gathering and generating paraphrases from twitter with application to normalization},
+  author={Xu, Wei and Ritter, Alan and Grishman, Ralph},
+  booktitle={Proceedings of the Sixth Workshop on Building and Using Comparable Corpora},
+  pages={121--128},
+  year={2013},
+  organization={Association for Computational Linguistics}
+}
+
+
+
