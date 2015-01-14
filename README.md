@@ -5,13 +5,13 @@ This repository contains :
 	@article{Xu-EtAl-2014:TACL,
 	  author    = {Wei Xu and Alan Ritter and Chris Callison-Burch and William B. Dolan and Yangfeng Ji},
 	  title     = {Extracting Lexically Divergent Paraphrases from {Twitter}},
-	  journal   = {Transactions of the Association for Computational Linguistics},
-	  volume    = {},
-	  number    = {},
+	  journal   = {Transactions of the Association for Computational Linguistics (TACL)},
+	  volume    = {2},
+	  number    = {1},
 	  year      = {2014},
-	  pages     = {},
+	  pages     = {435-448},
 	  publisher = {Association for Computational Linguistics},
-	  url       = {http://www.cis.upenn.edu/~xwe/files/tacl2014-extracting-paraphrases-from-twitter.pdf}
+	  url       = {http://www.cis.upenn.edu/~xwe/publications/tacl2014-extracting-paraphrases-from-twitter.pdf}
 	}
 
 
