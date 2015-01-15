@@ -15,7 +15,7 @@ This repository contains :
 	}
 
 
-  (2) data and scripts for the shared task "Paraphrase and Semantic Similarity in Twitter" at SemEval 2015
+  (2) data and scripts for the shared task "Task 1: Paraphrase and Semantic Similarity in Twitter (PIT)" at SemEval 2015
 
 	@inproceedings{xu2015semeval,
 	  author    = {Wei Xu and Chris Callison-Burch and William B. Dolan},
